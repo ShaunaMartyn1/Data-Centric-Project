@@ -1,0 +1,21 @@
+{
+  "name": "Data Centric",
+  "version": "1.0.0",
+  "description": "Data Centric Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "bash": "^0.0.1",
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^4.16.0",
+    "mongoose": "^6.11.4",
+    "node": "^19.8.1",
+    "nodemon": "^3.0.1",
+    "promise-mysql": "^5.2.0"
+  }
+}
